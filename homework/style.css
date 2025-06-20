@@ -1,0 +1,48 @@
+body {
+    font-family: 'Georgia', serif;
+    font-size: medium;
+    color: #067706;
+    background-color: #18080857;
+    
+}
+
+header {
+    background: linear-gradient(135deg, #4a6741 0%, #6b8c5a 100%);
+    color: white;
+    text-align: center;
+}
+
+header h1 {
+    font-size:large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(182, 213, 213);
+}
+
+nav {
+    background-color: #4a6741;
+
+}
+
+main {
+    background-color: rgba(69, 210, 180, 0.525);
+    font-size: medium;
+}
+
+footer {
+    background-color: #80c96ab5;
+    color: white;
+    text-align: center;
+
+}
+
+li {
+    display: inline;
+    width: 100px;
+    text-align: center;
+}
+
+p {
+    font-size: medium;
+    color: #067706;
+    line-height: normal;
+}
